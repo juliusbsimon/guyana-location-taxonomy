@@ -1,0 +1,3149 @@
+{
+  "title": "Guyana Local Authority Constituencies",
+  "authority": "Guyana Elections Commission (GECOM)",
+  "source_dataset": "Register of Voters for Local Government Elections 2023",
+  "verification_status": "All records extracted from numbered constituency headings in the 80 official GECOM voter-register PDFs.",
+  "total_regions": 10,
+  "total_local_authorities": 80,
+  "total_constituencies": 610,
+  "regions": [
+    {
+      "region_number": 1,
+      "region_name": "Barima-Waini",
+      "local_authorities": [
+        {
+          "geo_order": "1.01",
+          "name": "PORT KAITUMA MATTHEWS RIDGE/ARAKAKA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "CANAL BANK - CITRUS GROVE",
+              "official_source_name": "CANAL BANK-CITRUS GROVE"
+            },
+            {
+              "number": 2,
+              "name": "COMPOUND - ORONOQUE - MCDOOM",
+              "official_source_name": "COMPOUND-ORONOQUE-MC DOOM"
+            },
+            {
+              "number": 3,
+              "name": "FITZBURG - FOUR MILES",
+              "official_source_name": "FITZBURG-FOUR MILES"
+            },
+            {
+              "number": 4,
+              "name": "ARAKAKA"
+            },
+            {
+              "number": 5,
+              "name": "HEAVEN HILL - PAKERA",
+              "official_source_name": "HEA VEN HILL-PAKERA"
+            },
+            {
+              "number": 6,
+              "name": "GARRISON HILL - HELL HILL",
+              "official_source_name": "GARRISON HILL -HELL HILL"
+            }
+          ]
+        },
+        {
+          "geo_order": "1.02",
+          "name": "MUNICIPALITY OF MABARUMA",
+          "type": "MUNICIPALITY",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "THOMAS HILL - SMITH CREEK",
+              "official_source_name": "THOMAS HILL-SMITH CREEK"
+            },
+            {
+              "number": 2,
+              "name": "MABARUMA SETTLEMENT/BARIMANOBO"
+            },
+            {
+              "number": 3,
+              "name": "MABARUMA TOWNSHIP - MABARUMA COMPOUND - BROOMES ESTATE",
+              "official_source_name": "MABARUMA TOWNSHIP -MABARUMA COMPOUND-BROOMES ESTATE"
+            },
+            {
+              "number": 4,
+              "name": "BARABINA - KOBERIMO HILL",
+              "official_source_name": "BARABINA-KOBERIMO HILL"
+            },
+            {
+              "number": 5,
+              "name": "KUMAKA"
+            },
+            {
+              "number": 6,
+              "name": "HOSORORO HILL"
+            },
+            {
+              "number": 7,
+              "name": "WAUNA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region_number": 2,
+      "region_name": "Pomeroon-Supenaam",
+      "local_authorities": [
+        {
+          "geo_order": "2.01",
+          "name": "MORUKA/PROVIDENCE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "MORUKA - ABERDEEN",
+              "official_source_name": "MORUKA-ABERDEEN"
+            },
+            {
+              "number": 2,
+              "name": "HEATHFIELD – GRANT ST. VINCENT"
+            },
+            {
+              "number": 3,
+              "name": "FRIENDSHIP BACKLANDS – PROVIDENCE"
+            }
+          ]
+        },
+        {
+          "geo_order": "2.02",
+          "name": "THE NILE/COZIER",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "NILE – BELLE VIEW"
+            },
+            {
+              "number": 2,
+              "name": "DUBLIN – TENEZE FARM"
+            },
+            {
+              "number": 3,
+              "name": "MARIA’S PLEASURE - MARTINDALE"
+            }
+          ]
+        },
+        {
+          "geo_order": "2.03",
+          "name": "CHARITY/URASARA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "JACKLOW"
+            },
+            {
+              "number": 2,
+              "name": "JACKLOW - SIRIKI - ABRAM’S CREEK",
+              "official_source_name": "JACKLOW-SIRIKI-ABRAM’S CREEK"
+            },
+            {
+              "number": 3,
+              "name": "ABRAM’S CREEK –PICKER’S GILL"
+            },
+            {
+              "number": 4,
+              "name": "SOMERSET AND BERKS – NEW ROAD NORTH"
+            },
+            {
+              "number": 5,
+              "name": "CHARITY (EAST)"
+            },
+            {
+              "number": 6,
+              "name": "CHARITY (WEST)"
+            },
+            {
+              "number": 7,
+              "name": "SOMERSET AND BERKS - (NEW ROAD SOUTH)",
+              "official_source_name": "SOMERSET AND BERKS-(NEW ROAD SOUTH)"
+            },
+            {
+              "number": 8,
+              "name": "AMAZON - DREDGE CREEK",
+              "official_source_name": "AMAZON-DREDGE CREEK"
+            },
+            {
+              "number": 9,
+              "name": "TRYBEST - BUXTON – ST. JOSEPH – SOMERSET AND BERKS",
+              "official_source_name": "TRYBEST-BUXTON – ST. JOSEPH – SOMERSET AND BERKS"
+            }
+          ]
+        },
+        {
+          "geo_order": "2.04",
+          "name": "EVERGREEN/PARADISE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "EVERGREEN/LA RESOURCE"
+            },
+            {
+              "number": 2,
+              "name": "BETTER HOPE - ANDREWS"
+            },
+            {
+              "number": 3,
+              "name": "BETTER SUCCESS"
+            },
+            {
+              "number": 4,
+              "name": "PHILLIPS - BOUNTY HALL"
+            },
+            {
+              "number": 5,
+              "name": "WESTBURY"
+            },
+            {
+              "number": 6,
+              "name": "DARTMOUTH (EAST OF PUBLIC ROAD)"
+            },
+            {
+              "number": 7,
+              "name": "DARTMOUTH (NORTH WEST & SOUTH WEST)"
+            },
+            {
+              "number": 8,
+              "name": "DUNKELD - EXMOUTH"
+            },
+            {
+              "number": 9,
+              "name": "JIB - PARADISE"
+            }
+          ]
+        },
+        {
+          "geo_order": "2.05",
+          "name": "MUNICIPALITY OF ANNA REGINA",
+          "type": "MUNICIPALITY",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "WALTON HALL - DEVONSHIRE CASTLE",
+              "official_source_name": "WALTON HALL-DEVONSHIRE CASTLE"
+            },
+            {
+              "number": 2,
+              "name": "HAMPTON COURT - WINDSOR CASTLE",
+              "official_source_name": "HAMPTON COURT-WINDSOR CASTLE"
+            },
+            {
+              "number": 3,
+              "name": "SPARTA FEARNOT - COFFEE GROVE",
+              "official_source_name": "SPARTA FEARNOT- COFFEE GROVE"
+            },
+            {
+              "number": 4,
+              "name": "LIMA"
+            },
+            {
+              "number": 5,
+              "name": "LA BELLE ALLIANCE - RICHMOND HOUSING SCHEME DIVISION/SUB DIVISION"
+            },
+            {
+              "number": 6,
+              "name": "HENRIETTA - ANNA REGINA DIVISION/SUB DIVISION"
+            },
+            {
+              "number": 7,
+              "name": "ANNA REGINA HOUSING SCHEME - COTTON FIELD DIVISION/SUB DIVISION"
+            },
+            {
+              "number": 8,
+              "name": "BUSH LOT - THREE FRIENDS DIVISION/SUB DIVISION",
+              "official_source_name": "BUSH LOT-THREE FRIENDS DIVISION/SUB DIVISION"
+            }
+          ]
+        },
+        {
+          "geo_order": "2.06",
+          "name": "ABERDEEN/ZORG-EN-VLYGT",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "ABERDEEN/COLUMBIA"
+            },
+            {
+              "number": 2,
+              "name": "SCHOOL STREET - AFFIANCE (NORTH)",
+              "official_source_name": "SCHOOL STREET -AFFIANCE (NORTH)"
+            },
+            {
+              "number": 3,
+              "name": "SCHOOL STREET - AFFIANCE (SOUTH)",
+              "official_source_name": "SCHOOL STREET-AFFIANCE (SOUTH)"
+            },
+            {
+              "number": 4,
+              "name": "TAYMOUTH MANOR"
+            },
+            {
+              "number": 5,
+              "name": "LITTLE ALLIANCE/WEST FIELD"
+            },
+            {
+              "number": 6,
+              "name": "MOCHA"
+            },
+            {
+              "number": 7,
+              "name": "DAGERAAD (NORTH)"
+            },
+            {
+              "number": 8,
+              "name": "DAGERAAD (SOUTH)"
+            },
+            {
+              "number": 9,
+              "name": "ZORG - EN - VLYGT",
+              "official_source_name": "ZORG-EN-VLYGT"
+            }
+          ]
+        },
+        {
+          "geo_order": "2.07",
+          "name": "ANNANDALE/RIVERSTOWN",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "ANNANDALE - ABRAMS ZUIL"
+            },
+            {
+              "number": 2,
+              "name": "CULLEN"
+            },
+            {
+              "number": 3,
+              "name": "PERSEVERANCE"
+            },
+            {
+              "number": 4,
+              "name": "GOLDEN FLEECE - GOLDEN FLEECE ESTATE"
+            },
+            {
+              "number": 5,
+              "name": "ZORG"
+            },
+            {
+              "number": 6,
+              "name": "JOHANNA CECELIA"
+            },
+            {
+              "number": 7,
+              "name": "MARIA’S LODGE - ONDERNEEMING"
+            },
+            {
+              "number": 8,
+              "name": "ADVENTURE"
+            },
+            {
+              "number": 9,
+              "name": "AIRY HALL - RIVERSTOWN"
+            }
+          ]
+        },
+        {
+          "geo_order": "2.08",
+          "name": "GOOD HOPE/POMONA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "POMONA/POMONA HOUSING SCHEME"
+            },
+            {
+              "number": 2,
+              "name": "HUIST’ DIEREN - MIDDLESEX",
+              "official_source_name": "HUIS T’ DIEREN- MIDDLESEX"
+            },
+            {
+              "number": 3,
+              "name": "VILVOORDEN"
+            },
+            {
+              "number": 4,
+              "name": "FAIRFIELD"
+            },
+            {
+              "number": 5,
+              "name": "MAKESHIFT"
+            },
+            {
+              "number": 6,
+              "name": "AURORA"
+            },
+            {
+              "number": 7,
+              "name": "AURORA ESTATE/ SPRING GARDEN/ GOOD INTENT"
+            },
+            {
+              "number": 8,
+              "name": "GOOD HOPE [NORTH]"
+            },
+            {
+              "number": 9,
+              "name": "GOOD HOPE [SOUTH]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region_number": 3,
+      "region_name": "Essequibo Islands-West Demerara",
+      "local_authorities": [
+        {
+          "geo_order": "3.01",
+          "name": "WAKENAAM",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "CONCORDIA - PALMYRA"
+            },
+            {
+              "number": 2,
+              "name": "RUSH BROOK - MARIA JOHANNA"
+            },
+            {
+              "number": 3,
+              "name": "EAGLE’S RUST - GOOD SUCCESS"
+            },
+            {
+              "number": 4,
+              "name": "SANS SOUCI – BELLE PLAINE (WEST OF PUBLIC ROAD)"
+            },
+            {
+              "number": 5,
+              "name": "SANS SOUCI – BELLE PLAINE (EAST OF PUBLIC ROAD)"
+            },
+            {
+              "number": 6,
+              "name": "SARAH - BANK HALL"
+            },
+            {
+              "number": 7,
+              "name": "MEERZORG - ZEELANDIA"
+            },
+            {
+              "number": 8,
+              "name": "MARIA’S PLEASURE - DOMBURG"
+            },
+            {
+              "number": 9,
+              "name": "FREDRICKSBURG - NOITGEDACHT"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.02",
+          "name": "LEGUAN",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "VROUW ANNA - OSTERBECK"
+            },
+            {
+              "number": 2,
+              "name": "SUCCESS - LA BAGATELLE (SUCCESS / MARYVILLE)"
+            },
+            {
+              "number": 3,
+              "name": "SUCCESS - LA BAGATELLE (BELFIELD / LA BAGATELLE)"
+            },
+            {
+              "number": 4,
+              "name": "SUCCESS - LA BAGATELLE (VERTROUWEN)"
+            },
+            {
+              "number": 5,
+              "name": "DOORN HAAG - RICHMOND HILL"
+            },
+            {
+              "number": 6,
+              "name": "GOOD INTENT - CANE GARDEN"
+            },
+            {
+              "number": 7,
+              "name": "DAUNTLESS BANK - AMSTERDAM"
+            },
+            {
+              "number": 8,
+              "name": "ENDEA VOUR"
+            },
+            {
+              "number": 9,
+              "name": "BLENHEIM - ENTERPRISE",
+              "official_source_name": "BLENHEIM -ENTERPRISE"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.03",
+          "name": "MORA/PARIKA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "NAAMRYCK - MORA"
+            },
+            {
+              "number": 2,
+              "name": "PARIKA - LOOK OUT (HYDE PARK / LOOKOUT)",
+              "official_source_name": "PARIKA -LOOK OUT (HYDE PARK / LOOKOUT)"
+            },
+            {
+              "number": 3,
+              "name": "PARIKA (OUTFALL TO JOHN DALLU BRIDGE)"
+            },
+            {
+              "number": 4,
+              "name": "PARIKA - SEA DAM TO MAIN ACCESS ROAD"
+            },
+            {
+              "number": 5,
+              "name": "PARIKA (MAIN ACCESS ROAD TO FAÇADE TRENCH)"
+            },
+            {
+              "number": 6,
+              "name": "PARIKA (WEST OF FAÇADE TRENCH)"
+            },
+            {
+              "number": 7,
+              "name": "PARIKA (EAST OF FAÇADE TRENCH)"
+            },
+            {
+              "number": 8,
+              "name": "PARIKA (PARIKA BACK DAM)"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.04",
+          "name": "HYDRONIE/GOOD HOPE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "HYDRONIE"
+            },
+            {
+              "number": 2,
+              "name": "BUSHY PARK TO ORANGESTEIN"
+            },
+            {
+              "number": 3,
+              "name": "LE DESTIN"
+            },
+            {
+              "number": 4,
+              "name": "FARM"
+            },
+            {
+              "number": 5,
+              "name": "RUBY"
+            },
+            {
+              "number": 6,
+              "name": "GOOD HOPE"
+            },
+            {
+              "number": 7,
+              "name": "RUBY BACKDAM"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.05",
+          "name": "GREENWICH PARK/VERGENOEGEN",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "GREENWICH PARK (NORTH)"
+            },
+            {
+              "number": 2,
+              "name": "GREENWICH PARK (SOUTH)"
+            },
+            {
+              "number": 3,
+              "name": "BARNWELL"
+            },
+            {
+              "number": 4,
+              "name": "PHILADELPHIA"
+            },
+            {
+              "number": 5,
+              "name": "VERGENOEGEN (SEAWALL TO CEMETERY STREET)"
+            },
+            {
+              "number": 6,
+              "name": "VERGENOEGEN (CEMETERY STREET TO BOERASIRIE CANAL)"
+            },
+            {
+              "number": 7,
+              "name": "VERGENOEGEN (SEAWALL TO OLD ROAD)"
+            },
+            {
+              "number": 8,
+              "name": "VERGENOEGEN (OLD ROAD TO BOERASIRIE CANAL)"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.06",
+          "name": "TUSCHEN/UITVLUGT",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "TUSCHEN NORTH"
+            },
+            {
+              "number": 2,
+              "name": "TUSCHEN SOUTH (WEST HALF)"
+            },
+            {
+              "number": 3,
+              "name": "TUSCHEN SOUTH (EAST HALF)"
+            },
+            {
+              "number": 4,
+              "name": "ZEELUGT (WEST OF FISHER DAM, SOUTH OF PUBLIC ROAD)"
+            },
+            {
+              "number": 5,
+              "name": "ZEELUGT (EAST OF FISHER DAM, NORTH OF PUBLIC ROAD)"
+            },
+            {
+              "number": 6,
+              "name": "DE KINDEREN"
+            },
+            {
+              "number": 7,
+              "name": "MET - EN - MEERZORG (WEST)",
+              "official_source_name": "MET-EN-MEERZORG (WEST)"
+            },
+            {
+              "number": 8,
+              "name": "MET - EN - MEERZORG (EAST)",
+              "official_source_name": "MET-EN-MEERZORG (EAST)"
+            },
+            {
+              "number": 9,
+              "name": "ZEEBURG - DE WILLEM"
+            },
+            {
+              "number": 10,
+              "name": "UITVLUGT"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.07",
+          "name": "STEWARTVILLE/CORNELIA IDA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "STEWARTVILLE (NORTH OF PUBLIC ROAD, EAST STEWARTVILLE)"
+            },
+            {
+              "number": 2,
+              "name": "STEWARTVILLE WEST (SOUTH OF THE PUBLIC ROAD, WEST STEWARTVILLE)"
+            },
+            {
+              "number": 3,
+              "name": "LEONORA (SEAFIELD, PASTURE, PARAFIELD)"
+            },
+            {
+              "number": 4,
+              "name": "LEONORA (NORTH OF THE PUBLIC ROAD, JIB GROENVELDT)"
+            },
+            {
+              "number": 5,
+              "name": "EDINBURG - ANNA CATHERINA (NORTH OF DRAINAGE CANAL EAST OF BUS SHED STREET)"
+            },
+            {
+              "number": 6,
+              "name": "ANNA CATHERINA (SOUTH OF DRAINAGE CANAL WEST OF BUS SHED STREET)"
+            },
+            {
+              "number": 7,
+              "name": "EDINBURG – ANNA CATHERINA (SOUTH OF THE PUBLIC ROAD)"
+            },
+            {
+              "number": 8,
+              "name": "CORNELIA IDA (NORTH)"
+            },
+            {
+              "number": 9,
+              "name": "CORNELIA IDA (SOUTH, WEST HALF)"
+            },
+            {
+              "number": 10,
+              "name": "CORNELIA IDA (SOUTH, EAST HALF)"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.08",
+          "name": "CANALS POLDER",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "VRIES – EN –VRIENDSCHAP - SOESDYKE"
+            },
+            {
+              "number": 2,
+              "name": "JA V A - TWO BROTHERS"
+            },
+            {
+              "number": 3,
+              "name": "JACOBA CONSTANTIA - CONSERV ANCY"
+            },
+            {
+              "number": 4,
+              "name": "LA HUEREUSE ADVENTURE - MES DELICES"
+            },
+            {
+              "number": 5,
+              "name": "PRIV ATE LANDS (CANAL NO.2) LEFT BANK"
+            },
+            {
+              "number": 6,
+              "name": "CAMERON DAM TO KOOMS DAM, OID MAN DAM TO CLAY BRICK ROAD"
+            },
+            {
+              "number": 7,
+              "name": "BELLE WEST HOUSING SCHEME"
+            },
+            {
+              "number": 8,
+              "name": "NEW ANNLEGT, ROSETTA AND DE BUFF"
+            },
+            {
+              "number": 9,
+              "name": "RIGHT BANK - NO.2 CANAL HEAD"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.09",
+          "name": "LA GRANGE/NISMES",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "PALMER STREET TO INDEPENDENCE STREET (NORTHERN HALF)"
+            },
+            {
+              "number": 2,
+              "name": "PALMER STREET TO INDEPENDENCE STREET (SOUTHERN HALF)"
+            },
+            {
+              "number": 3,
+              "name": "SOUTHERN INDEPENDENCE STREET TO NORTHERN DOCTOR DAM - PUBLIC ROAD TO BACK TRENCH",
+              "official_source_name": "SOUTHERN INDEPENDENCE STREET TO NORTHERN DOCTOR DAM- PUBLIC ROAD TO BACK TRENCH"
+            },
+            {
+              "number": 4,
+              "name": "SOUTHERN DOCTOR DAM TO UNITY STREET"
+            },
+            {
+              "number": 5,
+              "name": "SOUTH EAST LA GRANGE"
+            },
+            {
+              "number": 6,
+              "name": "NORTH EAST LA GRANGE"
+            },
+            {
+              "number": 7,
+              "name": "NORTHERN AND EASTERN BAGOTVILLE"
+            },
+            {
+              "number": 8,
+              "name": "WESTERN BAGOTVILLE"
+            },
+            {
+              "number": 9,
+              "name": "NISMES"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.10",
+          "name": "TOEVLUGT/PATENTIA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "TOEVLUGT/LA RETRAITE"
+            },
+            {
+              "number": 2,
+              "name": "SOUTH OF CHURCH STREET TO INNER STANLEYTOWN"
+            },
+            {
+              "number": 3,
+              "name": "BELLE VUE/EASTERN GOOD INTENT"
+            },
+            {
+              "number": 4,
+              "name": "WEST GOOD INTENT"
+            },
+            {
+              "number": 5,
+              "name": "NORTH EAST DE GESUSTERS SISTERS VILLAGE"
+            },
+            {
+              "number": 6,
+              "name": "SOUTHERN DE GESUSTERS (SISTERS VILLAGE) AND WALES"
+            },
+            {
+              "number": 7,
+              "name": "WEST PATENTIA HOUSING SCHEME"
+            },
+            {
+              "number": 8,
+              "name": "EAST PATENTIA HOUSING SCHEME TO SQUATTING AREA & CULTIV ATION LANDS"
+            },
+            {
+              "number": 9,
+              "name": "VRIESLAND/FREE & EASY"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.11",
+          "name": "HAGUE/BLANKENBURG",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "HAGUE – NORTH OF THE PUBLIC ROAD"
+            },
+            {
+              "number": 2,
+              "name": "HAGUE – SOUTH OF THE PUBLIC ROAD"
+            },
+            {
+              "number": 3,
+              "name": "HAGUE BACK"
+            },
+            {
+              "number": 4,
+              "name": "FELLOWSHIP"
+            },
+            {
+              "number": 5,
+              "name": "DEN AMSTEL – NORTHERN SIDE OF THE OLD ROAD"
+            },
+            {
+              "number": 6,
+              "name": "DEN AMSTEL - EAST OF CLAYBRICK ROAD",
+              "official_source_name": "DEN AMSTEL-EAST OF CLAYBRICK ROAD"
+            },
+            {
+              "number": 7,
+              "name": "DEN AMSTEL - WEST OF CLAYBRICK ROAD",
+              "official_source_name": "DEN AMSTEL-WEST OF CLAYBRICK ROAD"
+            },
+            {
+              "number": 8,
+              "name": "BLANKENBURG (WEST)"
+            },
+            {
+              "number": 9,
+              "name": "BLANKENBURG (EAST)"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.12",
+          "name": "LA JALOUSIE/NOUVELLE FLANDERS",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "LA JALOUSIE (NORTH)"
+            },
+            {
+              "number": 2,
+              "name": "LA JALOUSIE (SOUTH)"
+            },
+            {
+              "number": 3,
+              "name": "NORTH WEST WINDSOR FOREST"
+            },
+            {
+              "number": 4,
+              "name": "CENTRAL WINDSOR FOREST"
+            },
+            {
+              "number": 5,
+              "name": "SOUTH WEST WINDSOR FOREST"
+            },
+            {
+              "number": 6,
+              "name": "NORTH EAST WINDSOR FOREST"
+            },
+            {
+              "number": 7,
+              "name": "SOUTH EAST WINDSOR FOREST"
+            },
+            {
+              "number": 8,
+              "name": "RUIMZIGT"
+            },
+            {
+              "number": 9,
+              "name": "WALLERS DELIGHT - NOUVELLE FLANDERS"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.13",
+          "name": "THE BEST/ KLIEN POUDEROYEN",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "THE BEST (NORTH OF TEMPLE STREET)"
+            },
+            {
+              "number": 2,
+              "name": "THE BEST (SOUTH OF TEMPLE STREET)"
+            },
+            {
+              "number": 3,
+              "name": "PLANTATION BEST (EAST)"
+            },
+            {
+              "number": 4,
+              "name": "VREED EN HOOP (WEST OF PAPI STREET) NORTH OF THE PUBLIC ROAD"
+            },
+            {
+              "number": 5,
+              "name": "VREED - EN - HOOP (EAST OF PAPI STREET) SOUTH OF PUBLIC ROAD TO THE DEMERARA RIVER",
+              "official_source_name": "VREED-EN-HOOP (EAST OF PAPI STREET) SOUTH OF PUBLIC ROAD TO THE DEMERARA RIVER"
+            },
+            {
+              "number": 6,
+              "name": "VREED - EN - HOOP (WEST OF LOT 115), SOUTH OF NEW ROAD TO PLANTAIN WALK AND NORTH COGHLAN DAM",
+              "official_source_name": "VREED-EN- HOOP (WEST OF LOT 115), SOUTH OF NEW ROAD TO PLANTAIN WALK AND NORTH COGHLAN DAM"
+            },
+            {
+              "number": 7,
+              "name": "NORTH KLIEN POUDEROYEN"
+            },
+            {
+              "number": 8,
+              "name": "PHOENIX PARK AND NORTH KILLARNEY"
+            },
+            {
+              "number": 9,
+              "name": "SOUTH KILLARNEY AND NORTH OF KEITH MASSIAH STREET (MIDDLE STREET)"
+            },
+            {
+              "number": 10,
+              "name": "SOUTH OF KEITH MASSIAH STREET AND PHOENIX PARK PHASE 2 HOUSING SCHEME"
+            }
+          ]
+        },
+        {
+          "geo_order": "3.14",
+          "name": "MALGRE' TOUT/MEER-ZORGEN",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "MALGRE' TOUT/VERSAILLES"
+            },
+            {
+              "number": 2,
+              "name": "NORTHERN GOED FORTUIN"
+            },
+            {
+              "number": 3,
+              "name": "SOUTHERN GOED FORTUIN"
+            },
+            {
+              "number": 4,
+              "name": "GOED FORTUIN OLD HOUSING SCHEME (NORTH OF TEMPLE STREET)"
+            },
+            {
+              "number": 5,
+              "name": "GOED FORTUIN OLD HOUSING SCHEME (SOUTH OF TEMPLE STREET)"
+            },
+            {
+              "number": 6,
+              "name": "GOED FORTUIN SQUATTING AREA"
+            },
+            {
+              "number": 7,
+              "name": "LA PARFAITE HARMONIE AND WESTMINSTER"
+            },
+            {
+              "number": 8,
+              "name": "ONDERNEEMING, RECHT DOOR ZEE AND LUST EN RUST"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region_number": 4,
+      "region_name": "Demerara-Mahaica",
+      "local_authorities": [
+        {
+          "geo_order": "4.01",
+          "name": "HAURARUNI/YAROWKABRA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "YAROWKABRA (NORTH OF CIRCUIT/ MISSION ROAD)"
+            },
+            {
+              "number": 2,
+              "name": "SANS SOUCI/ YAROWKABRA (SOUTH OF CIRCUIT ROAD, WEST OF S.L.H)"
+            },
+            {
+              "number": 3,
+              "name": "KURU KURU/HAURARUNI"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.02",
+          "name": "LAMAHA/YAROWKABRA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "KURU KURURU (NORTH)"
+            },
+            {
+              "number": 2,
+              "name": "KURU KURURU (EAST)"
+            },
+            {
+              "number": 3,
+              "name": "KURU KURURU (WEST)"
+            },
+            {
+              "number": 4,
+              "name": "MARUDI/MADEWINI (WAIAKABRA)"
+            },
+            {
+              "number": 5,
+              "name": "MARUDI/MADEWINI (SWAN)"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.03",
+          "name": "SOESDYKE/HUIST COVERDEN",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "FERNANDES ROAD (NORTH)"
+            },
+            {
+              "number": 2,
+              "name": "FERNANDES ROAD (SOUTH)"
+            },
+            {
+              "number": 3,
+              "name": "GURUHU (NORTH)"
+            },
+            {
+              "number": 4,
+              "name": "GRANT SAND ROAD (NORTH)"
+            },
+            {
+              "number": 5,
+              "name": "GRANT SAND ROAD (SOUTH)"
+            },
+            {
+              "number": 6,
+              "name": "CHRIS AVENUE - LATCHMAN SAND ROAD",
+              "official_source_name": "CHRIS A VENUE - LATCHMAN SAND ROAD"
+            },
+            {
+              "number": 7,
+              "name": "FARM TRACK - CHRIS AVENUE",
+              "official_source_name": "FARM TRACK - CHRIS A VENUE"
+            },
+            {
+              "number": 8,
+              "name": "HUIST’ COVERDEN",
+              "official_source_name": "HUIS T’ COVERDEN"
+            },
+            {
+              "number": 9,
+              "name": "DEN HEUVEL"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.04",
+          "name": "GOOD SUCCESS/CALEDONIA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "SARAH JOANNAH/CALEDONIA"
+            },
+            {
+              "number": 2,
+              "name": "LAND OF CANAAN"
+            },
+            {
+              "number": 3,
+              "name": "RELIEF - BRICKERY"
+            },
+            {
+              "number": 4,
+              "name": "GARDEN OF EDEN"
+            },
+            {
+              "number": 5,
+              "name": "FRIENDSHIP [SOUTH]"
+            },
+            {
+              "number": 6,
+              "name": "FRIENDSHIP [NORTH]"
+            },
+            {
+              "number": 7,
+              "name": "NEW HOPE"
+            },
+            {
+              "number": 8,
+              "name": "CRAIG"
+            },
+            {
+              "number": 9,
+              "name": "GOOD SUCCESS"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.05",
+          "name": "HERSTELLING/ LITTLE DIAMOND",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "HERSTELLING (NORTH - EAST)",
+              "official_source_name": "HERSTELLING (NORTH-EAST)"
+            },
+            {
+              "number": 2,
+              "name": "HERSTELLING [NORTH WEST]"
+            },
+            {
+              "number": 3,
+              "name": "HERSTELLING [SOUTH]"
+            },
+            {
+              "number": 4,
+              "name": "FARM"
+            },
+            {
+              "number": 5,
+              "name": "COVENT GARDEN"
+            },
+            {
+              "number": 6,
+              "name": "PROSPECT [EAST]"
+            },
+            {
+              "number": 7,
+              "name": "PROSPECT [WEST]"
+            },
+            {
+              "number": 8,
+              "name": "LITTLE DIAMOND [WEST]"
+            },
+            {
+              "number": 9,
+              "name": "LITTLE DIAMOND [EAST]"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.06",
+          "name": "MOCHA/ARCADIA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "MOCHA [EAST] - BARNWELL"
+            },
+            {
+              "number": 2,
+              "name": "MOCHA CENTRAL"
+            },
+            {
+              "number": 3,
+              "name": "MOCHA WEST"
+            },
+            {
+              "number": 4,
+              "name": "ARCADIA EAST"
+            },
+            {
+              "number": 5,
+              "name": "ARCADIA NORTH WEST"
+            },
+            {
+              "number": 6,
+              "name": "ARCADIA SOUTH WEST"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.07",
+          "name": "DIAMOND PLACE/GOLDEN GROVE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "DIAMOND [WEST]"
+            },
+            {
+              "number": 2,
+              "name": "DIAMOND CENTRAL"
+            },
+            {
+              "number": 3,
+              "name": "DIAMOND [EAST]"
+            },
+            {
+              "number": 4,
+              "name": "GOLDEN GROVE [WEST]"
+            },
+            {
+              "number": 5,
+              "name": "GOLDEN GROVE SQUATTING AREA"
+            },
+            {
+              "number": 6,
+              "name": "GOLDEN GROVE NEW HOUSING SCHEME"
+            },
+            {
+              "number": 7,
+              "name": "KANEVILLE"
+            },
+            {
+              "number": 8,
+              "name": "SAMATTA POINT"
+            },
+            {
+              "number": 9,
+              "name": "GOLDEN GROVE OLD HOUSING SCHEME"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.08",
+          "name": "ECCLES/RAMSBURG",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "PROVIDENCE AND RAMSBURG"
+            },
+            {
+              "number": 2,
+              "name": "PETER’S HALL [NORTH]"
+            },
+            {
+              "number": 3,
+              "name": "REPUBLIC PARK"
+            },
+            {
+              "number": 4,
+              "name": "NANDY PARK"
+            },
+            {
+              "number": 5,
+              "name": "PETER’S HALL [SOUTH - WEST]",
+              "official_source_name": "PETER’S HALL [SOUTH-WEST]"
+            },
+            {
+              "number": 6,
+              "name": "OLD ECCLES - WEST",
+              "official_source_name": "OLD ECCLES- WEST"
+            },
+            {
+              "number": 7,
+              "name": "ECCLES NEW HOUSIING SCHEME [EAST]"
+            },
+            {
+              "number": 8,
+              "name": "ECCLES NEW SCHEME [CENTRAL]"
+            },
+            {
+              "number": 9,
+              "name": "ECCLES NEW SCHEME [WEST]"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.09",
+          "name": "MUNICIPALITY OF GEORGETOWN",
+          "type": "MUNICIPALITY",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "KINGSTON EAST & WEST, THOMAS LANDS, NON PAREIL PARK, CUMMINGSBURG, ALBERTTOWN & QUEENSTOWN",
+              "official_source_name": "KINGSTON EAST & WEST, THOMAS LANDS, NON PARIEL PARK, CUMMINGSBURG, ALBERTTOWN & QUEENSTOWN"
+            },
+            {
+              "number": 2,
+              "name": "KITTY NORTH, CENTRAL & SOUTH & SUBRYANVILLE"
+            },
+            {
+              "number": 3,
+              "name": "BELAIR GARDENS, BEL AIR SPRINGS, PRASHAD NAGAR, NORTH EAST & NORTH WEST CAMPBELLVILLE"
+            },
+            {
+              "number": 4,
+              "name": "LAMAHA GARDENS, NEWTOWN CAMPBELLVILLE, SECTION K CAMPBELLVILLE & BEL AIR PARK"
+            },
+            {
+              "number": 5,
+              "name": "SOPHIA / LILIENDAAL NORTH & SOUTH, PATTENSEN / TURKEYEN NORTH & SOUTH TURKEYEN CENTRAL & SOPHIA / PATTENSEN (CENTRAL)"
+            },
+            {
+              "number": 6,
+              "name": "CUMMINGS LODGE NORTH, CENTRAL & SOUTH, PATTENSEN /TURKEYEN SOUTH"
+            },
+            {
+              "number": 7,
+              "name": "BOURDA - STABROEK CENTRAL - LACYTOWN"
+            },
+            {
+              "number": 8,
+              "name": "STABROEK - WORTMANVILLE - WERK - EN - RUST",
+              "official_source_name": "STABROEK - WORTMANVILLE -WERK-EN-RUST"
+            },
+            {
+              "number": 9,
+              "name": "LODGE NORTH - MEADOW BROOK GARDENS",
+              "official_source_name": "LODGE NORTH -MEADOW BROOK GARDENS"
+            },
+            {
+              "number": 10,
+              "name": "ALBOUYSTOWN - CHARLESTOWN",
+              "official_source_name": "ALBOUYSTOWN -CHARLESTOWN"
+            },
+            {
+              "number": 11,
+              "name": "EAST LA - PENITANCE - RIVER VIEW",
+              "official_source_name": "EAST LA-PENITANCE- RIVER VIEW"
+            },
+            {
+              "number": 12,
+              "name": "TUCVILLE - NORTH RUIMVELDT"
+            },
+            {
+              "number": 13,
+              "name": "WEST AND EAST RUIMVELDT"
+            },
+            {
+              "number": 14,
+              "name": "SOUTH RUIMVELDT PARK/RUIMVELDT INDUSTRIAL ESTATE"
+            },
+            {
+              "number": 15,
+              "name": "MEADOW BANK - AGRICOLA",
+              "official_source_name": "MEADOW BANK -AGRICOLA"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.10",
+          "name": "INDUSTRY/PLAISANCE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "INDUSTRY NORTH"
+            },
+            {
+              "number": 2,
+              "name": "INDUSTRY SOUTH"
+            },
+            {
+              "number": 3,
+              "name": "OGLE NORTH"
+            },
+            {
+              "number": 4,
+              "name": "OGLE SOUTH"
+            },
+            {
+              "number": 5,
+              "name": "GOEDVERWAGTING - SPARENDAAM NORTH"
+            },
+            {
+              "number": 6,
+              "name": "GOEDVERWAGTING SOUTH"
+            },
+            {
+              "number": 7,
+              "name": "PLAISANCE NORTH"
+            },
+            {
+              "number": 8,
+              "name": "PLAISANCE SOUTH"
+            },
+            {
+              "number": 9,
+              "name": "SPARENDAAM (SOUTH)"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.11",
+          "name": "BETTER HOPE/LA BONNE INTENTION",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "BETTERHOPE & VRYHEID'S LUST (NORTH)"
+            },
+            {
+              "number": 2,
+              "name": "BROTHERS - MONTROSE"
+            },
+            {
+              "number": 3,
+              "name": "BETTERHOPE & VRYHEID'S LUST (CENTRAL)"
+            },
+            {
+              "number": 4,
+              "name": "BETTERHOPE (SOUTH)"
+            },
+            {
+              "number": 5,
+              "name": "VRYHEID'S LUST (SOUTH)"
+            },
+            {
+              "number": 6,
+              "name": "FELICITY - LA RESSOUVENIR"
+            },
+            {
+              "number": 7,
+              "name": "SUCCESS - CHATEAU MARGOT – LA BONNE INTENTION (NORTH)"
+            },
+            {
+              "number": 8,
+              "name": "SUCCESS - CHATEAU MARGOT (SOUTH)"
+            },
+            {
+              "number": 9,
+              "name": "LA BONNE INTENTION (SOUTH)"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.12",
+          "name": "BETERVERWAGTING/TRIUMPH",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "BETERVERWAGTING NORTH (E ½)"
+            },
+            {
+              "number": 2,
+              "name": "BETERVERWAGTING SOUTH (W ½)"
+            },
+            {
+              "number": 3,
+              "name": "BETERVERWAGTING SOUTH (E ½)"
+            },
+            {
+              "number": 4,
+              "name": "TRIUMPH (NORTH)"
+            },
+            {
+              "number": 5,
+              "name": "TRIUMPH (UPPER SOUTH)"
+            },
+            {
+              "number": 6,
+              "name": "TRIUMPH MIDDLE (SOUTH)"
+            },
+            {
+              "number": 7,
+              "name": "BETERVERWAGTING NORTH (W ½)"
+            },
+            {
+              "number": 8,
+              "name": "TRIUMPH LOWER SOUTH (W ½)"
+            },
+            {
+              "number": 9,
+              "name": "TRIUMPH LOWER SOUTH (E ½)"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.13",
+          "name": "MON REPOS/LA RECONNAISSANCE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "MON REPOS NORTH&MONREPOS CENTRAL (E ½)"
+            },
+            {
+              "number": 2,
+              "name": "MON REPOS - CENTRAL & SOUTH (W1/2)"
+            },
+            {
+              "number": 3,
+              "name": "MON REPOS - SOUTH (E ½)"
+            },
+            {
+              "number": 4,
+              "name": "GOOD HOPE"
+            },
+            {
+              "number": 5,
+              "name": "LUSIGNAN NORTH"
+            },
+            {
+              "number": 6,
+              "name": "LUSIGNAN CENTRAL"
+            },
+            {
+              "number": 7,
+              "name": "LUSIGNAN SOUTH"
+            },
+            {
+              "number": 8,
+              "name": "ANNADALE NORTH"
+            },
+            {
+              "number": 9,
+              "name": "ANNANDALE CENTRAL & SOUTH"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.14",
+          "name": "BUXTON/FOULIS",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "BUXTON"
+            },
+            {
+              "number": 2,
+              "name": "FRIENDSHIP"
+            },
+            {
+              "number": 3,
+              "name": "BLADENHALL, STRATHSPEY, COLDINGEN & NON PAREIL (NORTH)",
+              "official_source_name": "BLADENHALL, STRATHSPEY, COLDINGEN & NON PARIEL (NORTH)"
+            },
+            {
+              "number": 4,
+              "name": "VIGILANCE (NORTH)"
+            },
+            {
+              "number": 5,
+              "name": "VIGILANCE - STRATHSPEY& VIGILANCE - FOULIS SUGAR CULTIV ATION (SOUTH)",
+              "official_source_name": "VIGILANCE-STRATHSPEY& VIGILANCE - FOULIS SUGAR CULTIV ATION (SOUTH)"
+            },
+            {
+              "number": 6,
+              "name": "ENTERPRISE - ELIZABETH HALL (NORTH)"
+            },
+            {
+              "number": 7,
+              "name": "ENTERPRISE - ELIZABETH HALL (SOUTH) (BEYOND THE RAILWAY EMBANKMENT)"
+            },
+            {
+              "number": 8,
+              "name": "BACHELOR'S ADVENTURE"
+            },
+            {
+              "number": 9,
+              "name": "PARADISE - FOULIS"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.15",
+          "name": "ENMORE/HOPE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "BLOSSOM SCHEME"
+            },
+            {
+              "number": 2,
+              "name": "LOGWOOD"
+            },
+            {
+              "number": 3,
+              "name": "HOPE WEST (NORTH)"
+            },
+            {
+              "number": 4,
+              "name": "HOPE WEST (CENTRAL)"
+            },
+            {
+              "number": 5,
+              "name": "HOPE WEST (SOUTH)"
+            },
+            {
+              "number": 6,
+              "name": "BEEZIE AND NEWTOWN"
+            },
+            {
+              "number": 7,
+              "name": "CHOW KOW SCHEME"
+            },
+            {
+              "number": 8,
+              "name": "ENMORE NORTH"
+            },
+            {
+              "number": 9,
+              "name": "ENMORE PASTURE / NEW SCHEME"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.16",
+          "name": "HASLINGTON/GROVE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "HASLINGTON"
+            },
+            {
+              "number": 2,
+              "name": "GOLDEN GROVE"
+            },
+            {
+              "number": 3,
+              "name": "NABACALIS"
+            },
+            {
+              "number": 4,
+              "name": "COVE & JOHN - CRAIG MILNE"
+            },
+            {
+              "number": 5,
+              "name": "VICTORIA"
+            },
+            {
+              "number": 6,
+              "name": "BELFIELD & NOOTENZUIL"
+            },
+            {
+              "number": 7,
+              "name": "DUCHFOUR & TWO FRIENDS"
+            },
+            {
+              "number": 8,
+              "name": "ANN'S GROVE & CLONBROOK"
+            },
+            {
+              "number": 9,
+              "name": "BEEHIVE - GROVE"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.17",
+          "name": "UNITY/VEREENIGING",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "LANCASTER NORTH, MOSQUITO HALL & SPRING HALL"
+            },
+            {
+              "number": 2,
+              "name": "UNITY, LANCASTER CENTRAL AND LANCASTER SOUTH"
+            },
+            {
+              "number": 3,
+              "name": "SPRINGHALL"
+            },
+            {
+              "number": 4,
+              "name": "HAND - EN - VELDT - GOODHOPE",
+              "official_source_name": "HAND-EN-VELDT - GOODHOPE"
+            },
+            {
+              "number": 5,
+              "name": "GOOD HOPE & HELENA # 2 NORTH"
+            },
+            {
+              "number": 6,
+              "name": "HELENA #1 & HELENA #2 SOUTH"
+            },
+            {
+              "number": 7,
+              "name": "BELMONT NORTH"
+            },
+            {
+              "number": 8,
+              "name": "BELMONT SOUTH & SUPPLY NORTH"
+            },
+            {
+              "number": 9,
+              "name": "SUPPLY SOUTH & VEREENIGING"
+            }
+          ]
+        },
+        {
+          "geo_order": "4.18",
+          "name": "CANE GROVE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "MARY'S HOPE - STRATHAVON",
+              "official_source_name": "MARY'S HOPE - STRATHA VON"
+            },
+            {
+              "number": 2,
+              "name": "BAGATELLE - DIAMOND"
+            },
+            {
+              "number": 3,
+              "name": "MELVILLE - VIRGINIA",
+              "official_source_name": "MELVILLE -VIRGINIA"
+            },
+            {
+              "number": 4,
+              "name": "LA BON PERE - HUNTLEY"
+            },
+            {
+              "number": 5,
+              "name": "ESTATE YARD"
+            },
+            {
+              "number": 6,
+              "name": "SAYWAH - GRANNY FIELD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region_number": 5,
+      "region_name": "Mahaica-Berbice",
+      "local_authorities": [
+        {
+          "geo_order": "5.01",
+          "name": "WOODLANDS/FARM",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "JOE HOOK - NO 10",
+              "official_source_name": "JOE HOOK- NO 10"
+            },
+            {
+              "number": 2,
+              "name": "POSTS/VEV AY"
+            },
+            {
+              "number": 3,
+              "name": "WOODLANDS/ MANILLA"
+            },
+            {
+              "number": 4,
+              "name": "STRANGROEN/FAIRFIELD"
+            },
+            {
+              "number": 5,
+              "name": "BATH / ZEALAND"
+            },
+            {
+              "number": 6,
+              "name": "PLANTERS HALL / BUSHY PARK"
+            },
+            {
+              "number": 7,
+              "name": "NOW OR NEVER / MARY"
+            },
+            {
+              "number": 8,
+              "name": "BLENHEIM"
+            },
+            {
+              "number": 9,
+              "name": "ZESKINDEREN / ANJOU"
+            }
+          ]
+        },
+        {
+          "geo_order": "5.02",
+          "name": "HAMLET/CHANCE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "HAMLET - PERTH"
+            },
+            {
+              "number": 2,
+              "name": "FORTITUDE - NO. 12"
+            },
+            {
+              "number": 3,
+              "name": "STRATHCAMPBELL - CHANCE"
+            }
+          ]
+        },
+        {
+          "geo_order": "5.03",
+          "name": "MAHAICONY/ABARY",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "PARK/HUNTLEY"
+            },
+            {
+              "number": 2,
+              "name": "RETRIEVE/JUGDEO"
+            },
+            {
+              "number": 3,
+              "name": "ESAU & JACOB/MORA POINT"
+            },
+            {
+              "number": 4,
+              "name": "AIRY HALL"
+            },
+            {
+              "number": 5,
+              "name": "DUNDEE"
+            },
+            {
+              "number": 6,
+              "name": "NOV AR"
+            },
+            {
+              "number": 7,
+              "name": "GOOD FAITH / RECESS"
+            },
+            {
+              "number": 8,
+              "name": "CALCUTTA"
+            },
+            {
+              "number": 9,
+              "name": "CATHERINE / ADVENTURE"
+            }
+          ]
+        },
+        {
+          "geo_order": "5.04",
+          "name": "PROFIT/RISING SUN",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "PROFIT - FOULIS",
+              "official_source_name": "PROFIT -FOULIS"
+            },
+            {
+              "number": 2,
+              "name": "ELDORADO"
+            },
+            {
+              "number": 3,
+              "name": "BELLADRUM"
+            },
+            {
+              "number": 4,
+              "name": "PARADISE"
+            },
+            {
+              "number": 5,
+              "name": "GOLDEN FLEECE"
+            },
+            {
+              "number": 6,
+              "name": "WELDAAD - RISING SUN"
+            }
+          ]
+        },
+        {
+          "geo_order": "5.05",
+          "name": "SEAFIELD/TEMPIE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "SEAFIELD - BENGAL"
+            },
+            {
+              "number": 2,
+              "name": "PLANTATION AYR - BELLE VUE"
+            },
+            {
+              "number": 3,
+              "name": "LICHFIELD"
+            },
+            {
+              "number": 4,
+              "name": "COTTAGE - PHOENIX"
+            },
+            {
+              "number": 5,
+              "name": "KINGELLY - BRAHN",
+              "official_source_name": "KINGELLY- BRAHN"
+            },
+            {
+              "number": 6,
+              "name": "ROSS - YEOVILLE",
+              "official_source_name": "ROSS -YEOVILLE"
+            },
+            {
+              "number": 7,
+              "name": "CHESTER - BRITTANNIA"
+            },
+            {
+              "number": 8,
+              "name": "TEMPIE"
+            }
+          ]
+        },
+        {
+          "geo_order": "5.06",
+          "name": "UNION/NAARSTIGHEID",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "UNION"
+            },
+            {
+              "number": 2,
+              "name": "TRAFALGAR"
+            },
+            {
+              "number": 3,
+              "name": "ONVERWAGT – GOLDEN GROVE"
+            },
+            {
+              "number": 4,
+              "name": "BUSH LOT (NORTH)"
+            },
+            {
+              "number": 5,
+              "name": "BUSH LOT (SOUTH)"
+            },
+            {
+              "number": 6,
+              "name": "ARMADALE - BEL AIR"
+            },
+            {
+              "number": 7,
+              "name": "ST.JOHN - HOPETOWN (NORTH)"
+            },
+            {
+              "number": 8,
+              "name": "HOPETOWN (SOUTH)"
+            },
+            {
+              "number": 9,
+              "name": "ONDERNEEMING - NAARSTIGHEID"
+            }
+          ]
+        },
+        {
+          "geo_order": "5.07",
+          "name": "BATH/WOODLEY PARK",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "EXPERIMENT - HOPE (NORTH)"
+            },
+            {
+              "number": 2,
+              "name": "EXPERIMENT - HOPE (SOUTH)"
+            },
+            {
+              "number": 3,
+              "name": "SQUATTING AREA"
+            },
+            {
+              "number": 4,
+              "name": "WATERLOO (SOUTH)"
+            },
+            {
+              "number": 5,
+              "name": "BATH (AZAM KHAN STREET TO PITCH STREET WEST)"
+            },
+            {
+              "number": 6,
+              "name": "BATH - PITCH STREET (EAST) TO CINEMA STREET"
+            },
+            {
+              "number": 7,
+              "name": "WATERLOO"
+            },
+            {
+              "number": 8,
+              "name": "WOODLEY PARK (NORTH)"
+            },
+            {
+              "number": 9,
+              "name": "WOODLEY PARK (SOUTH)"
+            }
+          ]
+        },
+        {
+          "geo_order": "5.08",
+          "name": "WOODLANDS/BEL AIR",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "WOODLANDS, FRIENDS & RETREAT"
+            },
+            {
+              "number": 2,
+              "name": "EXPECTATION"
+            },
+            {
+              "number": 3,
+              "name": "INVERNESS"
+            },
+            {
+              "number": 4,
+              "name": "WILLEMSTAAD/ BEL AIR"
+            }
+          ]
+        },
+        {
+          "geo_order": "5.09",
+          "name": "ZEELUST/ROSIGNOL",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "ZEE LUST/EDDERTON"
+            },
+            {
+              "number": 2,
+              "name": "MON CHOISI/ZEE ZIGHT"
+            },
+            {
+              "number": 3,
+              "name": "COTTON TREE (EAST) (1)"
+            },
+            {
+              "number": 4,
+              "name": "COTTON TREE (EAST) (2)"
+            },
+            {
+              "number": 5,
+              "name": "COTTON TREE (WEST)"
+            },
+            {
+              "number": 6,
+              "name": "D’EDWARD (EAST)"
+            },
+            {
+              "number": 7,
+              "name": "D’EDWARD (WEST)"
+            },
+            {
+              "number": 8,
+              "name": "ROSIGNOL (EAST)"
+            },
+            {
+              "number": 9,
+              "name": "ROSIGNOL (WEST)"
+            }
+          ]
+        },
+        {
+          "geo_order": "5.10",
+          "name": "BLAIRMONT/GELDERLAND",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "SHEILDSTOWN/BLAIRMONT COMPOUND"
+            },
+            {
+              "number": 2,
+              "name": "N0.1 SETTLEMENT BLAIRMONT"
+            },
+            {
+              "number": 3,
+              "name": "N0.2 SETTLEMENT BLAIRMONT"
+            },
+            {
+              "number": 4,
+              "name": "N0.3 SETTLEMENT BLAIRMONT"
+            },
+            {
+              "number": 5,
+              "name": "NO. 4 SETTLEMENT BLAIRMONT - ZORG - EN - HOOP (SOUTH)"
+            },
+            {
+              "number": 6,
+              "name": "ZORG - EN - HOOP (EAST)",
+              "official_source_name": "ZORG-EN-HOOP (EAST)"
+            },
+            {
+              "number": 7,
+              "name": "ZORG - EN - HOOP (WEST)",
+              "official_source_name": "ZORG-EN-HOOP (WEST)"
+            },
+            {
+              "number": 8,
+              "name": "ITHACA (EAST)"
+            },
+            {
+              "number": 9,
+              "name": "ITHACA (WEST)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region_number": 6,
+      "region_name": "East Berbice-Corentyne",
+      "local_authorities": [
+        {
+          "geo_order": "6.01",
+          "name": "PLEGT ANKER/KORTBERAADT",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "KORTBERAADT EAST - BUSES LUST",
+              "official_source_name": "KORTBERAADT EAST-BUSES LUST"
+            },
+            {
+              "number": 2,
+              "name": "KORTBERAADT WEST"
+            },
+            {
+              "number": 3,
+              "name": "HIGHBURY - CHRISTINA’S LUST",
+              "official_source_name": "HIGHBURY- CHRISTINA’S LUST"
+            },
+            {
+              "number": 4,
+              "name": "JULIANSBURG - PLEGT ANKER",
+              "official_source_name": "JULIANSBURG-PLEGT ANKER"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.02",
+          "name": "WYBURG/CARACAS",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "CARACAS"
+            },
+            {
+              "number": 2,
+              "name": "VRYHEID - LOCHABER"
+            },
+            {
+              "number": 3,
+              "name": "SANDVOORT - WYBURG"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.03",
+          "name": "ENFIELD/NEW DOE PARK",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "ENFIELD - SISTERS"
+            },
+            {
+              "number": 2,
+              "name": "BROTHERS"
+            },
+            {
+              "number": 3,
+              "name": "LONSDALE"
+            },
+            {
+              "number": 4,
+              "name": "ROTTERDAM"
+            },
+            {
+              "number": 5,
+              "name": "BELLE VUE - RESTAURANT STREET (EDINBURGH)"
+            },
+            {
+              "number": 6,
+              "name": "RESTAURANT STREET, RAMBALLIE STREET"
+            },
+            {
+              "number": 7,
+              "name": "RAMBALLIE STREET - MACKBE SAWMILL STREET",
+              "official_source_name": "RAMBALLIE STREET- MACKBE SAWMILL STREET"
+            },
+            {
+              "number": 8,
+              "name": "SAWMILL STREET - HEATHBURN"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.04",
+          "name": "MUNICIPALITY OF NEW AMSTERDAM",
+          "type": "MUNICIPALITY",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "QUEENSTOWN - FORT ORDANCE - SMYTHFIELD"
+            },
+            {
+              "number": 2,
+              "name": "MOUNT SINAI CENTRAL & NORTH"
+            },
+            {
+              "number": 3,
+              "name": "VRYMAN’S ERVEN - STANLEYTOWN SAVANNAH - MOUNT SINAI SOUTH",
+              "official_source_name": "VRYMAN’S ERVEN - STANLEYTOWN SA V ANNAH - MOUNT SINAI SOUTH"
+            },
+            {
+              "number": 4,
+              "name": "STANLEYTOWN - 37/43 - 60",
+              "official_source_name": "STANLEYTOWN -37/43-60"
+            },
+            {
+              "number": 5,
+              "name": "STANLEYTOWN - 37/43 - POPE STREET,SMYTHSTOWN",
+              "official_source_name": "STANLEYTOWN -37/43-POPE STREET,SMYTHSTOWN"
+            },
+            {
+              "number": 6,
+              "name": "SMYTHSTOWN - POPE STREET TO VRYHEID STREET",
+              "official_source_name": "SMYTHSTOWN-POPE STREET TO VRYHEID STREET"
+            },
+            {
+              "number": 7,
+              "name": "OVERWINNING - GLASGOW"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.05",
+          "name": "KINTYRE/NO. 37 BORLAM",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "KINTYRE - PALMYRA"
+            },
+            {
+              "number": 2,
+              "name": "BRAMFIELD - HERMITAGE"
+            },
+            {
+              "number": 3,
+              "name": "SUSANNAH NORTH"
+            },
+            {
+              "number": 4,
+              "name": "SUSANNAH SOUTH - BOHEMIA"
+            },
+            {
+              "number": 5,
+              "name": "KENDALLS SOUTH & WARREN SOUTH"
+            },
+            {
+              "number": 6,
+              "name": "KENDALLS NORTH"
+            },
+            {
+              "number": 7,
+              "name": "WARREN NORTH"
+            },
+            {
+              "number": 8,
+              "name": "DUN ROBIN - BORLAM"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.06",
+          "name": "GIBRALTAR/FYRISH",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "GIBRALTAR - NO.0"
+            },
+            {
+              "number": 2,
+              "name": "NO.1"
+            },
+            {
+              "number": 3,
+              "name": "COURTLAND (NORTH)"
+            },
+            {
+              "number": 4,
+              "name": "COURTLAND (SOUTH)"
+            },
+            {
+              "number": 5,
+              "name": "FYRISH NORTH OF THE PUBLIC ROAD FROM BUSH DAM TO KOKER DAM"
+            },
+            {
+              "number": 6,
+              "name": "FYRISH KOKER DAM TO KILCOY MARKET DAM"
+            },
+            {
+              "number": 7,
+              "name": "FYRISH SOUTH – KILCOY DAM TO KOKER DAM"
+            },
+            {
+              "number": 8,
+              "name": "FYRISH SOUTH KOKER DAM TO FYRISH ROAD"
+            },
+            {
+              "number": 9,
+              "name": "FYRISH SOUTH - MIDDLE STREET TO MANICK OR 40 DAM",
+              "official_source_name": "FYRISH SOUTH-MIDDLE STREET TO MANICK OR 40 DAM"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.07",
+          "name": "ORDNANCE/FORT LANDS NO.38",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "ORDNANCE/FORTLANDS"
+            },
+            {
+              "number": 2,
+              "name": "SHEET ANCHOR"
+            },
+            {
+              "number": 3,
+              "name": "BURN BUSH DAM/MAIN STREET CUMBERLAND"
+            },
+            {
+              "number": 4,
+              "name": "MAIN STREET CUMBERLAND/CANJE PUBLIC ROAD"
+            },
+            {
+              "number": 5,
+              "name": "BETTER HOPE STREET/ARCHER STREET CUMBERLAND"
+            },
+            {
+              "number": 6,
+              "name": "PALMYRA VILLAGE"
+            },
+            {
+              "number": 7,
+              "name": "NO.2 VILLAGE NORTH"
+            },
+            {
+              "number": 8,
+              "name": "NO.2 VILLAGE SOUTH"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.08",
+          "name": "CANE FIELD/ENTERPRISE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "CANEFIELD SETTLEMENT NORTH"
+            },
+            {
+              "number": 2,
+              "name": "CANEFIELD SETTLEMENT CENTRAL"
+            },
+            {
+              "number": 3,
+              "name": "CANEFIELD SETTLEMENT SOUTH"
+            },
+            {
+              "number": 4,
+              "name": "ROSE HALL CANJE - RELIANCE - ADELPHI WEST",
+              "official_source_name": "ROSE HALL CANJE - RELIANCE- ADELPHI WEST"
+            },
+            {
+              "number": 5,
+              "name": "ADELPHI SETTLEMENT - ADELPHI VILLAGE"
+            },
+            {
+              "number": 6,
+              "name": "GOED BANANEN LAND"
+            },
+            {
+              "number": 7,
+              "name": "BETSY GROUND"
+            },
+            {
+              "number": 8,
+              "name": "GANGARAM"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.09",
+          "name": "KILCOY/HAMPSHIRE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "KILCOY (NORTH)"
+            },
+            {
+              "number": 2,
+              "name": "KILCOY (SOUTH)"
+            },
+            {
+              "number": 3,
+              "name": "ALBION"
+            },
+            {
+              "number": 4,
+              "name": "NIGG (NORTH)"
+            },
+            {
+              "number": 5,
+              "name": "NIGG (SOUTH)"
+            },
+            {
+              "number": 6,
+              "name": "BELVEDERE (WEST)"
+            },
+            {
+              "number": 7,
+              "name": "BELVEDERE (EAST)"
+            },
+            {
+              "number": 8,
+              "name": "HAMPSHIRE"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.10",
+          "name": "MUNICIPALITY OF ROSE HALL",
+          "type": "MUNICIPALITY",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "WILLIAMSBURG NORTH"
+            },
+            {
+              "number": 2,
+              "name": "WILLIAMSBURG CENTRAL"
+            },
+            {
+              "number": 3,
+              "name": "WILLIAMSBURG SOUTH"
+            },
+            {
+              "number": 4,
+              "name": "ROSE HALL LOWER NORTHWEST"
+            },
+            {
+              "number": 5,
+              "name": "ROSE HALL UPPER NORTHWEST"
+            },
+            {
+              "number": 6,
+              "name": "ROSE HALL NORTH EAST"
+            },
+            {
+              "number": 7,
+              "name": "ROSE HALL CENTRAL"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.11",
+          "name": "PORT MOURANT/JOHNS",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "PORT MOURANT NORTH"
+            },
+            {
+              "number": 2,
+              "name": "PORT MOURANT SOUTH"
+            },
+            {
+              "number": 3,
+              "name": "HASWELL"
+            },
+            {
+              "number": 4,
+              "name": "ANKERVILLE"
+            },
+            {
+              "number": 5,
+              "name": "RESOURCE"
+            },
+            {
+              "number": 6,
+              "name": "TAIN NORTH"
+            },
+            {
+              "number": 7,
+              "name": "CLIFTON NORTH"
+            },
+            {
+              "number": 8,
+              "name": "JOHNS NORTH"
+            },
+            {
+              "number": 9,
+              "name": "RESOURCE SUGAR LANDS - JOHNS SOUTH",
+              "official_source_name": "RESOURCE SUGAR LANDS-JOHNS SOUTH"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.12",
+          "name": "BLOOMFIELD/WHIM",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "BLOOMFIELD NORTH"
+            },
+            {
+              "number": 2,
+              "name": "BLOOMFIELD SOUTH"
+            },
+            {
+              "number": 3,
+              "name": "LETTER KENNY NORTH"
+            },
+            {
+              "number": 4,
+              "name": "LETTER KENNY SOUTH"
+            },
+            {
+              "number": 5,
+              "name": "AUCHLYNE"
+            },
+            {
+              "number": 6,
+              "name": "WHIM NORTHWEST"
+            },
+            {
+              "number": 7,
+              "name": "WHIM NORTHEAST & SOUTH"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.13",
+          "name": "LANCASTER/HOGSTYE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "LANCASTER"
+            },
+            {
+              "number": 2,
+              "name": "LIVERPOOL"
+            },
+            {
+              "number": 3,
+              "name": "MANCHESTER"
+            },
+            {
+              "number": 4,
+              "name": "ULVERSTON"
+            },
+            {
+              "number": 5,
+              "name": "ALNESS (NORTH)"
+            },
+            {
+              "number": 6,
+              "name": "ALNESS (SOUTH)"
+            },
+            {
+              "number": 7,
+              "name": "SALTON - HOGSTYE"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.14",
+          "name": "ADVENTURE/NO. 28 OR BUSH LOT",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "ADVENTURE/LIMLAIR"
+            },
+            {
+              "number": 2,
+              "name": "FRIENDSHIP"
+            },
+            {
+              "number": 3,
+              "name": "NURNEY"
+            },
+            {
+              "number": 4,
+              "name": "KILDONAN"
+            },
+            {
+              "number": 5,
+              "name": "BUSHLOT (NORTH)"
+            },
+            {
+              "number": 6,
+              "name": "BUSHLOT (SOUTH)"
+            },
+            {
+              "number": 7,
+              "name": "BUSHLOT FARM"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.15",
+          "name": "MAIDA/TARLOGIE",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "MAIDA"
+            },
+            {
+              "number": 2,
+              "name": "KILMARNOCK"
+            },
+            {
+              "number": 3,
+              "name": "PHILLIPI"
+            },
+            {
+              "number": 4,
+              "name": "CROMARTY"
+            },
+            {
+              "number": 5,
+              "name": "WELLINGTON PARK"
+            },
+            {
+              "number": 6,
+              "name": "TARLOGIE"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.16",
+          "name": "MACEDONIA/JOPPA",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "NO.35 & NO.36"
+            },
+            {
+              "number": 2,
+              "name": "BRIGHTON"
+            },
+            {
+              "number": 3,
+              "name": "KILTEARN"
+            },
+            {
+              "number": 4,
+              "name": "EVERSHAM - DINGWALL"
+            },
+            {
+              "number": 5,
+              "name": "JA V A - JOPPA (NORTH)"
+            },
+            {
+              "number": 6,
+              "name": "JA V A - JOPPA (SOUTH)"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.17",
+          "name": "BLACK BUSH POLDER",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "LESBEHOLDEN NORTH"
+            },
+            {
+              "number": 2,
+              "name": "LESBEHOLDEN SOUTH"
+            },
+            {
+              "number": 3,
+              "name": "MIBIKURI NORTH"
+            },
+            {
+              "number": 4,
+              "name": "MIBIKURI SOUTH"
+            },
+            {
+              "number": 5,
+              "name": "MIBIKURI SOUTH"
+            },
+            {
+              "number": 6,
+              "name": "JOHANNA SOUTH"
+            },
+            {
+              "number": 7,
+              "name": "JOHANNA NORTH"
+            },
+            {
+              "number": 8,
+              "name": "YAKUSARI NORTH"
+            },
+            {
+              "number": 9,
+              "name": "YAKUSARI SOUTH"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.18",
+          "name": "GOOD HOPE/NO. 51",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "GOOD HOPE NO.44 - 45"
+            },
+            {
+              "number": 2,
+              "name": "NO.46"
+            },
+            {
+              "number": 3,
+              "name": "RISING SUN (NO.47)"
+            },
+            {
+              "number": 4,
+              "name": "FLOYD WARD (NO.48)"
+            },
+            {
+              "number": 5,
+              "name": "NO.49 & NO.50 (NORTH)"
+            },
+            {
+              "number": 6,
+              "name": "NO.49 - NO.50 (SOUTH)"
+            },
+            {
+              "number": 7,
+              "name": "NO.51"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.19",
+          "name": "NO.52/NO.63",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "NO.52 – NO.0 VILLAGE"
+            },
+            {
+              "number": 2,
+              "name": "NO.55 – 58 VILLAGE"
+            },
+            {
+              "number": 3,
+              "name": "NO.59– 60 VILLAGE"
+            },
+            {
+              "number": 4,
+              "name": "NO.61 – 63 VILLAGE"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.20",
+          "name": "NO. 64/NO. 74",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "NO.64 VILLAGE"
+            },
+            {
+              "number": 2,
+              "name": "NO.65 - 67 VILLAGE"
+            },
+            {
+              "number": 3,
+              "name": "NO.68/69 VILLAGE"
+            },
+            {
+              "number": 4,
+              "name": "NO.70/71 VILLAGE"
+            },
+            {
+              "number": 5,
+              "name": "NO.72 – 74 VILLAGE"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.21",
+          "name": "CRABWOOD CREEK/MOLESON",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "GRANT 1804 & GRANT 1806"
+            },
+            {
+              "number": 2,
+              "name": "GRANT 1805"
+            },
+            {
+              "number": 3,
+              "name": "GRANT 1803"
+            },
+            {
+              "number": 4,
+              "name": "GRANT 1780"
+            },
+            {
+              "number": 5,
+              "name": "GRANT 1802"
+            },
+            {
+              "number": 6,
+              "name": "GRANT 2767 - GRANT 2229"
+            },
+            {
+              "number": 7,
+              "name": "GRANT1651 - 1778 - 1779 JACKSON - MOLESON - SKELEDON - JACKSON BACKLANDS",
+              "official_source_name": "GRANT1651-1778 - 1779 JACKSON - MOLESON - SKELEDON - JACKSON BACKLANDS"
+            }
+          ]
+        },
+        {
+          "geo_order": "6.22",
+          "name": "MUNICIPALITY OF CORRIVERTON",
+          "type": "MUNICIPALITY",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "NO.75 – NO.76 (SCOTTSBURG - DUKESTOWN)"
+            },
+            {
+              "number": 2,
+              "name": "PRINCETOWN - NO.77 NEW HOUSING SCHEME"
+            },
+            {
+              "number": 3,
+              "name": "NO.78 (NORTH) - ELIZA & MARY HOUSING SCHEME (SPRINGLANDS NORTH)",
+              "official_source_name": "NO.78 (NORTH)-ELIZA & MARY HOUSING SCHEME (SPRINGLANDS NORTH)"
+            },
+            {
+              "number": 4,
+              "name": "NO.78 (SOUTH) - SPRINGLANDS HOUSING SCHEME/RAMPOOR (SPRINGLANDS) (SOUTH)",
+              "official_source_name": "NO.78 (SOUTH) -SPRINGLANDS HOUSING SCHEME/RAMPOOR (SPRINGLANDS) (SOUTH)"
+            },
+            {
+              "number": 5,
+              "name": "NO.79 (NORTH) QUEENSTOWN"
+            },
+            {
+              "number": 6,
+              "name": "NO.79 (SOUTH) LITTLE INDIA - KINGSTON",
+              "official_source_name": "NO.79 (SOUTH) LITTLE INDIA -KINGSTON"
+            },
+            {
+              "number": 7,
+              "name": "SKELDON - LINE PATH A, B, C AND F"
+            },
+            {
+              "number": 8,
+              "name": "LINE PATH D - BLOCK 19 - LINE PATH E",
+              "official_source_name": "LINE PATH D- BLOCK 19 - LINE PATH E"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region_number": 7,
+      "region_name": "Cuyuni-Mazaruni",
+      "local_authorities": [
+        {
+          "geo_order": "7.01",
+          "name": "MUNICIPALITY OF BARTICA",
+          "type": "MUNICIPALITY",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "BARTICA EAST (NORTH)"
+            },
+            {
+              "number": 2,
+              "name": "BARTICA EAST (SOUTH)"
+            },
+            {
+              "number": 3,
+              "name": "BARTICA EAST CENTRAL"
+            },
+            {
+              "number": 4,
+              "name": "BARTICA WEST CENTRAL (NORTH)"
+            },
+            {
+              "number": 5,
+              "name": "BARTICA WEST CENTRAL (SOUTH)"
+            },
+            {
+              "number": 6,
+              "name": "BARTICA (WEST)"
+            },
+            {
+              "number": 7,
+              "name": "TUMERING - MONGRIPPO (WEST)"
+            },
+            {
+              "number": 8,
+              "name": "TUMERING - MONGRIPPO (EAST)"
+            },
+            {
+              "number": 9,
+              "name": "KOETARU - BIG BARABARA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region_number": 8,
+      "region_name": "Potaro-Siparuni",
+      "local_authorities": [
+        {
+          "geo_order": "8.01",
+          "name": "MUNICIPALITY OF MAHDIA",
+          "type": "MUNICIPALITY",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "UEWANG - MAHDIA PLATEAU WEST"
+            },
+            {
+              "number": 2,
+              "name": "MAHDIA PLATEAU EAST"
+            },
+            {
+              "number": 3,
+              "name": "POTARO ROAD/EAGLE MOUNTAIN"
+            },
+            {
+              "number": 4,
+              "name": "KONAWAK/ESSEQUIBO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region_number": 9,
+      "region_name": "Upper Takutu-Upper Essequibo",
+      "local_authorities": [
+        {
+          "geo_order": "9.01",
+          "name": "MUNICIPALITY OF LETHEM",
+          "type": "MUNICIPALITY",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "MOCO - MOCO - MANARI (CULVERT CITY)",
+              "official_source_name": "MOCO- MOCO - MANARI (CULVERT CITY)"
+            },
+            {
+              "number": 2,
+              "name": "MOCO - MOCO - MANARI (TABATINGA) - OVER THE CREEK",
+              "official_source_name": "MOCO- MOCO - MANARI (TABATINGA) - OVER THE CREEK"
+            },
+            {
+              "number": 3,
+              "name": "MOCO - MOCO - MANARI (LETHEM) - TABATINGA BRIDGE TO THIRD STREET",
+              "official_source_name": "MOCO- MOCO - MANARI (LETHEM) - TABTINGA BRIDGE TO THIRD STREET"
+            },
+            {
+              "number": 4,
+              "name": "MOCO - MOCO - MANARI (LETHEM) - THIRD STREET TO WIND MILL ROAD",
+              "official_source_name": "MOCO- MOCO - MANARI (LETHEM)-THIRD STREET TO WIND MILL ROAD"
+            },
+            {
+              "number": 5,
+              "name": "MOCO – MOCO - MANARI (LETHEM) - WIND MILL ROAD TO TO ‘T & M ’ RESTAURANT (TAKUTU RIVER)"
+            }
+          ]
+        },
+        {
+          "geo_order": "9.02",
+          "name": "ARANAPUTA/UPPER BURRO BURRO",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "ARANAPUTA (SOUTH)/RUPUNUNI RIVER"
+            },
+            {
+              "number": 2,
+              "name": "ARANAPUTA (EAST)/UPPER BURRO - BURRO",
+              "official_source_name": "ARANAPUTA (EAST)/UPPER BURRO-BURRO"
+            },
+            {
+              "number": 3,
+              "name": "ARANAPUTA (WEST)/MORA RIVER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region_number": 10,
+      "region_name": "Upper Demerara-Berbice",
+      "local_authorities": [
+        {
+          "geo_order": "10.01",
+          "name": "MUNICIPALITY OF LINDEN",
+          "type": "MUNICIPALITY",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "BAMIA/ AMELIA'S WARD"
+            },
+            {
+              "number": 2,
+              "name": "RETRIEVE/KARA KARA"
+            },
+            {
+              "number": 3,
+              "name": "CENTRAL MACKENZIE"
+            },
+            {
+              "number": 4,
+              "name": "WASHER POND TO SIBERIEN"
+            },
+            {
+              "number": 5,
+              "name": "SILVERTOWN, GREEN VALLEY, HALF MILE, CANVAS CITY & WEST WATOOKA",
+              "official_source_name": "SILVERTOWN, GREEN V ALLEY, HALF MILE, CANV AS CITY & WEST WATOOKA"
+            },
+            {
+              "number": 6,
+              "name": "DALLAWALLA, CHRISTIANBURG, 1st, 2nd & 3rd ALLEY, SILVER CITY, WISMAR HILL & VICTORY VALLEY",
+              "official_source_name": "DALLAWALLA, CHRISTIANBURG, 1st, 2nd & 3rd ALLEY, SILVER CITY, WISMAR HILL & VICTORY V ALLEY"
+            },
+            {
+              "number": 7,
+              "name": "BLUEBERRY HILL, ONE MILE (NORTH), ONE MILE EXTENSION AND WISMAR HOUSING SCHEME"
+            },
+            {
+              "number": 8,
+              "name": "ONE MILE (SOUTH), BLOCKS 22, WISROC"
+            }
+          ]
+        },
+        {
+          "geo_order": "10.02",
+          "name": "KWAKWANI",
+          "type": "NDC",
+          "constituencies": [
+            {
+              "number": 1,
+              "name": "WATER FRONT"
+            },
+            {
+              "number": 2,
+              "name": "FIRST & SECOND PHASE"
+            },
+            {
+              "number": 3,
+              "name": "THIRD PHASE"
+            },
+            {
+              "number": 4,
+              "name": "POT VILLAGE (NORTH OF NATIONAL AVENUE)",
+              "official_source_name": "POT VILLAGE (NORTH OF NATIONAL A VENUE)"
+            },
+            {
+              "number": 5,
+              "name": "POT VILLAGE (SOUTH OF NATIONAL AVENUE)",
+              "official_source_name": "POT VILLAGE (SOUTH OF NATIONAL A VENUE)"
+            },
+            {
+              "number": 6,
+              "name": "STAFF HILL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+[
+    {
+        "region_id":  1,
+        "geo_order":  "1.01",
+        "name":  "PORT KAITUMA MATTHEWS RIDGE/ARAKAKA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/1.01.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  1,
+        "geo_order":  "1.02",
+        "name":  "MUNICIPALITY OF MABARUMA",
+        "authority_type":  "MUNICIPALITY",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/1.02.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  2,
+        "geo_order":  "2.01",
+        "name":  "MORUKA/PROVIDENCE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/2.01.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  2,
+        "geo_order":  "2.02",
+        "name":  "THE NILE/COZIER",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/2.02.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  2,
+        "geo_order":  "2.03",
+        "name":  "CHARITY/URASARA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/2.03.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  2,
+        "geo_order":  "2.04",
+        "name":  "EVERGREEN/PARADISE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/2.04.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  2,
+        "geo_order":  "2.05",
+        "name":  "MUNICIPALITY OF ANNA REGINA",
+        "authority_type":  "MUNICIPALITY",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/2.05.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  2,
+        "geo_order":  "2.06",
+        "name":  "ABERDEEN/ZORG-EN-VLYGT",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/2.06.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  2,
+        "geo_order":  "2.07",
+        "name":  "ANNANDALE/RIVERSTOWN",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/2.07.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  2,
+        "geo_order":  "2.08",
+        "name":  "GOOD HOPE/POMONA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/2.08.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.01",
+        "name":  "WAKENAAM",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.01.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.02",
+        "name":  "LEGUAN",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.02.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.03",
+        "name":  "MORA/PARIKA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.03.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.04",
+        "name":  "HYDRONIE/GOOD HOPE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.04.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.05",
+        "name":  "GREENWICH PARK/VERGENOEGEN",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.05.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.06",
+        "name":  "TUSCHEN/UITVLUGT",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.06.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.07",
+        "name":  "STEWARTVILLE/CORNELIA IDA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.07.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.08",
+        "name":  "CANALS POLDER",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.08.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.09",
+        "name":  "LA GRANGE/NISMES",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.09.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.10",
+        "name":  "TOEVLUGT/PATENTIA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.10.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.11",
+        "name":  "HAGUE/BLANKENBURG",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.11.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.12",
+        "name":  "LA JALOUSIE/NOUVELLE FLANDERS",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.12.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.13",
+        "name":  "THE BEST/ KLIEN POUDEROYEN",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.13.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  3,
+        "geo_order":  "3.14",
+        "name":  "MALGRE\u0027 TOUT/MEER-ZORGEN",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/3.14.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.01",
+        "name":  "HAURARUNI/YAROWKABRA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.01.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.02",
+        "name":  "LAMAHA/YAROWKABRA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.02.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.03",
+        "name":  "SOESDYKE/HUIST COVERDEN",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.03.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.04",
+        "name":  "GOOD SUCCESS/CALEDONIA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.04.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.05",
+        "name":  "HERSTELLING/ LITTLE DIAMOND",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.05.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.06",
+        "name":  "MOCHA/ARCADIA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.06.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.07",
+        "name":  "DIAMOND PLACE/GOLDEN GROVE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.07.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.08",
+        "name":  "ECCLES/RAMSBURG",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.08.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.09",
+        "name":  "MUNICIPALITY OF GEORGETOWN",
+        "authority_type":  "MUNICIPALITY",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.09.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.10",
+        "name":  "INDUSTRY/PLAISANCE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.10.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.11",
+        "name":  "BETTER HOPE/LA BONNE INTENTION",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.11.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.12",
+        "name":  "BETERVERWAGTING/TRIUMPH",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.12.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.13",
+        "name":  "MON REPOS/LA RECONNAISSANCE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.13.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.14",
+        "name":  "BUXTON/FOULIS",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.14.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.15",
+        "name":  "ENMORE/HOPE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.15.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.16",
+        "name":  "HASLINGTON/GROVE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.16.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.17",
+        "name":  "UNITY/VEREENIGING",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.17.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  4,
+        "geo_order":  "4.18",
+        "name":  "CANE GROVE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/4.18.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  5,
+        "geo_order":  "5.01",
+        "name":  "WOODLANDS/FARM",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/5.01.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  5,
+        "geo_order":  "5.02",
+        "name":  "HAMLET/CHANCE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/5.02.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  5,
+        "geo_order":  "5.03",
+        "name":  "MAHAICONY/ABARY",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/5.03.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  5,
+        "geo_order":  "5.04",
+        "name":  "PROFIT/RISING SUN",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/5.04.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  5,
+        "geo_order":  "5.05",
+        "name":  "SEAFIELD/TEMPIE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/5.05.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  5,
+        "geo_order":  "5.06",
+        "name":  "UNION/NAARSTIGHEID",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/5.06.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  5,
+        "geo_order":  "5.07",
+        "name":  "BATH/WOODLEY PARK",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/5.07.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  5,
+        "geo_order":  "5.08",
+        "name":  "WOODLANDS/BEL AIR",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/5.08.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  5,
+        "geo_order":  "5.09",
+        "name":  "ZEELUST/ROSIGNOL",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/5.09.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  5,
+        "geo_order":  "5.10",
+        "name":  "BLAIRMONT/GELDERLAND",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/5.10.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.01",
+        "name":  "PLEGT ANKER/KORTBERAADT",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.01.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.02",
+        "name":  "WYBURG/CARACAS",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.02.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.03",
+        "name":  "ENFIELD/NEW DOE PARK",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.03.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.04",
+        "name":  "MUNICIPALITY OF NEW AMSTERDAM",
+        "authority_type":  "MUNICIPALITY",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.04.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.05",
+        "name":  "KINTYRE/NO. 37 BORLAM",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.05.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.06",
+        "name":  "GIBRALTAR/FYRISH",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.06.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.07",
+        "name":  "ORDNANCE/FORT LANDS NO.38",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.07.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.08",
+        "name":  "CANE FIELD/ENTERPRISE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.08.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.09",
+        "name":  "KILCOY/HAMPSHIRE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.09.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.10",
+        "name":  "MUNICIPALITY OF ROSE HALL",
+        "authority_type":  "MUNICIPALITY",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.10.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.11",
+        "name":  "PORT MOURANT/JOHNS",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.11.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.12",
+        "name":  "BLOOMFIELD/WHIM",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.12.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.13",
+        "name":  "LANCASTER/HOGSTYE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.13.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.14",
+        "name":  "ADVENTURE/NO. 28 OR BUSH LOT",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.14.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.15",
+        "name":  "MAIDA/TARLOGIE",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.15.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.16",
+        "name":  "MACEDONIA/JOPPA",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.16.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.17",
+        "name":  "BLACK BUSH POLDER",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.17.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.18",
+        "name":  "GOOD HOPE/NO. 51",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.18.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.19",
+        "name":  "NO.52/NO.63",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.19.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.20",
+        "name":  "NO. 64/NO. 74",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.20.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.21",
+        "name":  "CRABWOOD CREEK/MOLESON",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.21.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  6,
+        "geo_order":  "6.22",
+        "name":  "MUNICIPALITY OF CORRIVERTON",
+        "authority_type":  "MUNICIPALITY",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/6.22.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  7,
+        "geo_order":  "7.01",
+        "name":  "MUNICIPALITY OF BARTICA",
+        "authority_type":  "MUNICIPALITY",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/7.01.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  8,
+        "geo_order":  "8.01",
+        "name":  "MUNICIPALITY OF MAHDIA",
+        "authority_type":  "MUNICIPALITY",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/8.01.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  9,
+        "geo_order":  "9.01",
+        "name":  "MUNICIPALITY OF LETHEM",
+        "authority_type":  "MUNICIPALITY",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/9.01.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  9,
+        "geo_order":  "9.02",
+        "name":  "ARANAPUTA/UPPER BURRO BURRO",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/9.02.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  10,
+        "geo_order":  "10.01",
+        "name":  "MUNICIPALITY OF LINDEN",
+        "authority_type":  "MUNICIPALITY",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/10.01.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    },
+    {
+        "region_id":  10,
+        "geo_order":  "10.02",
+        "name":  "KWAKWANI",
+        "authority_type":  "NDC",
+        "map_url":  "https://gecom.org.gy/public/assets/docs/lge2023/laa_maps/10.02.pdf",
+        "source_page":  "https://gecom.org.gy/public/home/resource_hub/lge2023",
+        "source_year":  2023,
+        "is_active":  true
+    }
+]
