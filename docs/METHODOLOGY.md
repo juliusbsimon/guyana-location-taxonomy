@@ -39,6 +39,19 @@ The original extracted heading is retained as `official_source_name` whenever it
 - Some official headings contain repeated or very similar place names; those are preserved rather than silently merged.
 - Boundary geometries are not included.
 
+## Gazetteer coordinates
+
+`scripts/download_gazetteer.py` downloads every feature from the Guyana
+National Gazetteer ArcGIS FeatureServer using pagination. The output preserves
+the source attributes and converts the point geometry to explicit `latitude`
+and `longitude` fields in WGS 84 (`EPSG:4326`).
+
+The current export contains 6,628 records and no missing coordinate pairs.
+`regional_c` is retained exactly as supplied by the ArcGIS source. Gazetteer
+points are not assigned to GECOM constituencies: a defensible assignment
+requires authoritative constituency boundary polygons and a point-in-polygon
+operation.
+
 ## Reproducibility
 
 Source URLs are included in the CSV. The scripts directory contains the extraction and finalization programs used to build the published files.
