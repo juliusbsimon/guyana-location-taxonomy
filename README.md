@@ -21,6 +21,8 @@ Every constituency was extracted from the numbered headings in GECOM's official 
 | `data/constituencies.csv` | Flat import-friendly representation with source URLs |
 | `data/distinct-constituencies-by-region.json` | Minimal Region -> distinct constituency names representation |
 | `data/local-authorities.json` | GECOM Local Authority Areas, Geo Orders, types, and map URLs |
+| `data/gazetteer-locations.json` | 6,628 Gazetteer locations with WGS 84 latitude and longitude |
+| `data/gazetteer-locations.csv` | Flat GPS-enabled Gazetteer export for application imports |
 | `docs/METHODOLOGY.md` | Source, extraction, normalization, and limitations |
 
 ## Example
@@ -50,6 +52,11 @@ Every constituency was extracted from the numbered headings in GECOM's official 
 This repository is authoritative only with respect to the names and structure printed in GECOM's 2023 Local Government Elections documents. It does not assert that boundaries or names remained unchanged after 2023.
 
 Source: [GECOM LGE 2023 Resource Hub](https://gecom.org.gy/public/home/resource_hub/lge2023)
+
+The Gazetteer files come from the Government of Guyana's ArcGIS National
+Gazetteer layer. Their coordinates are returned in WGS 84 (`EPSG:4326`).
+Gazetteer points have not been assigned to GECOM constituencies because that
+requires authoritative constituency boundary polygons.
 
 ## Name normalization
 
