@@ -23,10 +23,14 @@ Every constituency was extracted from the numbered headings in GECOM's official 
 | `data/local-authorities.json` | GECOM Local Authority Areas, Geo Orders, types, and map URLs |
 | `data/gazetteer-locations.json` | 6,628 Gazetteer locations with WGS 84 latitude and longitude |
 | `data/gazetteer-locations.csv` | Flat GPS-enabled Gazetteer export for application imports |
+| `data/gazetteer-with-local-authorities.json` | Gazetteer records with audited region and Local Authority Area assignments |
+| `data/gazetteer-with-local-authorities.csv` | Flat application-ready spatial merge |
+| `data/gazetteer-boundary-merge-quality.json` | Machine-readable spatial QA totals and coverage |
 | `data/local-authority-boundary-crosswalk.json` | GECOM-to-GuyNode polygon crosswalk with coverage and confidence |
 | `data/guynode-layer-inventory.csv` | Audited schemas, counts, dates and 2023 constituency-count comparisons |
 | `docs/METHODOLOGY.md` | Source, extraction, normalization, and limitations |
 | `docs/GUYNODE_BOUNDARY_AUDIT.md` | Spatial-source audit and recommended merge strategy |
+| `docs/GAZETTEER_BOUNDARY_MERGE.md` | Point-in-polygon results, rejected layers and remaining gaps |
 
 ## Example
 
