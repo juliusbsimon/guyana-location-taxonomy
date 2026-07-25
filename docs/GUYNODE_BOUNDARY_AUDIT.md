@@ -51,28 +51,37 @@ After name normalization and manual review:
 
 - 68 of the 80 GECOM 2023 Local Authority Areas can be crosswalked to the
   combined layer;
-- 3 additional areas have potentially usable supplemental layers; and
-- 9 areas remain unresolved.
+- 1 additional area has a potentially usable supplemental layer;
+- 2 downloaded layers were rejected after spatial validation; and
+- 9 areas have no dependable polygon.
 
 The supplemental candidates are:
 
 | Geo Order | GECOM area | Supplemental geometry | Assessment |
 |---|---|---|---|
-| 2.07 | Annandale/Riverstown | Union of nine constituency polygons | Medium confidence; polygon count agrees with 2023 |
-| 8.01 | Municipality of Mahdia | Separate Mahdia boundary | Medium confidence; visually verify against GECOM |
 | 9.01 | Municipality of Lethem | Union of six constituency polygons | Low confidence; GECOM 2023 has five constituencies |
 
-The nine unresolved areas are:
+Annandale/Riverstown initially appeared usable because its nine polygons agree
+with the 2023 GECOM constituency count. Spatial QA rejected it for automatic
+use: its union overlaps Charity/Urasara for all 18 affected Gazetteer points.
+
+The separate Mahdia polygon was also rejected. It captured 207 Gazetteer
+features spread across a broad mining and drainage area, including 106 creeks
+and 30 rivers, rather than a defensible municipal extent.
+
+The eleven areas requiring new or corrected boundary work are:
 
 1. `2.01` Moruka/Providence
 2. `2.02` The Nile/Cozier
-3. `4.01` Hauraruni/Yarowkabra
-4. `4.02` Lamaha/Yarowkabra
-5. `6.01` Plegt Anker/Kortberaad
-6. `6.02` Wyburg/Caracas
-7. `6.19` No.52/No.63
-8. `6.20` No.64/No.74
-9. `9.02` Aranaputa/Upper Burro Burro
+3. `2.07` Annandale/Riverstown
+4. `4.01` Hauraruni/Yarowkabra
+5. `4.02` Lamaha/Yarowkabra
+6. `6.01` Plegt Anker/Kortberaad
+7. `6.02` Wyburg/Caracas
+8. `6.19` No.52/No.63
+9. `6.20` No.64/No.74
+10. `8.01` Municipality of Mahdia
+11. `9.02` Aranaputa/Upper Burro Burro
 
 See `data/local-authority-boundary-crosswalk.json` for the complete 80-area
 crosswalk, match method, source and confidence.
@@ -133,13 +142,14 @@ The output must distinguish `matched`, `outside`, `overlap`, and
 
 ### Stage 3: supplemental areas
 
-Test Annandale/Riverstown, Mahdia, and Lethem separately. Dissolve
-constituency polygons when an outer Local Authority Area boundary is needed.
-Compare their outlines visually with the corresponding GECOM 2023 PDF maps.
+Test Lethem separately. Annandale/Riverstown and Mahdia must be corrected or
+redigitized because their downloaded layers failed spatial validation.
+Dissolve constituency polygons when an outer Local Authority Area boundary is
+needed, then compare outlines visually with the corresponding GECOM 2023 maps.
 
 ### Stage 4: unresolved areas
 
-Digitize the nine missing Local Authority Areas from GECOM maps, preferably
+Digitize or correct the eleven unsupported Local Authority Areas from GECOM maps, preferably
 using identifiable roads, rivers, canals and coordinates. Store these as a
 separate derived layer with the map URL and digitization notes.
 
