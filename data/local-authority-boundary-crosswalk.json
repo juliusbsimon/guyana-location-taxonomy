@@ -9,7 +9,8 @@
   "summary": {
     "total_gecom_local_authorities": 80,
     "combined_layer_matches": 68,
-    "supplemental_matches": 3,
+    "supplemental_matches": 1,
+    "rejected_after_spatial_validation": 2,
     "unresolved": 9
   },
   "local_authorities": [
@@ -125,11 +126,11 @@
       "gecom_name": "ANNANDALE/RIVERSTOWN",
       "authority_type": "NDC",
       "gecom_source_year": 2023,
-      "coverage_status": "supplemental_constituency_union",
+      "coverage_status": "rejected_after_spatial_validation",
       "boundary_name": "Annandale_Riverstown",
       "boundary_source_url": "https://www.guynode.com/Annandale_Riverstown_Constituencies.zip",
-      "confidence": "medium",
-      "note": "Nine polygons match the 2023 GECOM constituency count; dissolve to obtain the outer LAA boundary."
+      "confidence": "none",
+      "note": "Rejected for automatic use: its union overlaps Charity/Urasara for all 18 affected Gazetteer points."
     },
     {
       "geo_order": "2.08",
@@ -1046,11 +1047,11 @@
       "gecom_name": "MUNICIPALITY OF MAHDIA",
       "authority_type": "MUNICIPALITY",
       "gecom_source_year": 2023,
-      "coverage_status": "supplemental_municipality_boundary",
+      "coverage_status": "rejected_after_spatial_validation",
       "boundary_name": "Mahdia",
       "boundary_source_url": "https://www.guynode.com/Mahdia.zip",
-      "confidence": "medium",
-      "note": "Single municipal/settlement boundary feature; verify against GECOM 2023 map before authoritative use."
+      "confidence": "none",
+      "note": "Rejected for automatic use: polygon captures a broad mining/drainage area, including 207 Gazetteer features, rather than a defensible municipal extent."
     },
     {
       "geo_order": "9.01",
